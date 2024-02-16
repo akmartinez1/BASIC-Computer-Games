@@ -39,9 +39,10 @@
 390 REM     SUBROUTINE TO PRINT QUESTIONS
 400 Q$ = A$(K)
 410 FOR Z = 3 TO LEN(Q$)
-415 IF MID$(Q$, Z, 1) <> "\" THEN PRINT MID$(Q$, Z, 1); : NEXT Z
-INPUT C$
-C$ = LEFT$(C$, 1)
+415 IF MID$(Q$, Z, 1) <> "\" THEN PRINT MID$(Q$, Z, 1);
+416 NEXT Z: REM QBASIC Adjustment
+420 INPUT C$
+430 C$ = LEFT$(C$, 1)
 440 IF C$ <> "Y" AND C$ <> "N" THEN 410
 450 T$ = "\" + C$
 455 FOR X = 3 TO LEN(Q$) - 1
@@ -61,7 +62,8 @@ C$ = LEFT$(C$, 1)
 620 IF LEFT$(A$(I), 2) <> "\A" THEN 650
 624 PRINT TAB(12 * X);
 630 FOR Z = 3 TO LEN(A$(I))
-640 IF MID$(A$(I), Z, 1) <> "\" THEN PRINT MID$(A$(I), Z, 1); : NEXT Z
+640 IF MID$(A$(I), Z, 1) <> "\" THEN PRINT MID$(A$(I), Z, 1);
+641 NEXT Z: REM QBASIC Adjustment
 645 X = X + 1: IF X > 5 THEN X = 0: PRINT
 650 NEXT I
 660 PRINT
