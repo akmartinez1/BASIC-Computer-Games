@@ -26,3 +26,27 @@ correction.  If an error is found in the original source code or published
 text please submit an error report.  We will review the error against the
 original publication and respond accordingly.
 
+BASIC file naming convention.
+Original DOS followed an 8 dot 3 naming limitation (filename.ext).
+For file works in DOS the following is a guide on how files are named
+for this project.
+
+g###a.bas =
+    g = game
+        Other character codes:
+            i = description and instructions from publication
+            o = sample program output from publication
+            s = sample program output from screen capture (if possible)
+        
+    ### = game number as listed in order from publication
+        (table of contents reference will be created)
+
+    a = original type from publication with possible errors or incompatible
+        code with MS-DOS 6.22 QBASIC
+        Other character codes:
+            d = debugging file
+            f = final working code in MS-DOS 6.22 QBASIC
+
+        
+    .bas = BASIC program language file
+
