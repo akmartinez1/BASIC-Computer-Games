@@ -31,7 +31,17 @@ Original DOS followed an 8 dot 3 naming limitation (filename.ext).
 For file works in DOS the following is a guide on how files are named
 for this project.
 
-g###a.bas =
+<game_tite>_published_introduction.txt = game introduction and instructions as published including typos.
+
+<game_title>_published.bas = game code entered as published including typos and code errors.
+
+<game_title>_published_output.txt = game sample output as published including typos.
+
+<game_title>_introduction.txt = spell and grammar checked corrected introduction and instructions.
+
+<game_title>_debugged.bas = debugged game coded.
+
+
     g = game
         Other character codes:
             i = description and instructions from publication
