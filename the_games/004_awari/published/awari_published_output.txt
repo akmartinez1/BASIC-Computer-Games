@@ -1,0 +1,28 @@
+                   AWARI
+CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY
+
+          3   3   3   3   3   3
+       0                         0
+          3   3   3   3   3   3  
+
+     YOUR MOVE? 5
+
+          3   3   3   3   3   4
+       0                         1
+          3   3   3   3   0   4
+
+     MY MOVE IS 2
+          3   4   4   4   0   4
+       0                         0
+          3   3   3   3   0   4
+
+     YOUR MOVE? 4
+
+          3   4   4   4   0   4
+       0                         2
+          3   3   3   0   1   5  
+
+       
+
+
+
