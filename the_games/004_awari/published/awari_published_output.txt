@@ -22,7 +22,97 @@ CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY
        0                         2
           3   3   3   0   1   5  
 
-       
+     AGAIN? 1
+
+          3   4   4   0   0   4
+       0                         7
+          0   4   4   0   1   5  
+
+     MY MOVE IS 4
+          0   5   0   0   0   4
+       6                         7
+          0   4   4   0   1   5  
+
+     YOUR MOVE? 3
+
+          0   5   0   0   0   4
+       6                         8
+          0   4   0   1   2   6  
+
+     AGAIN? 5
+
+          0   5   0   0   0   4
+       6                         9
+          0   4   0   1   0   7
+
+     MY MOVE IS 5
+          1   0   0   0   0   4
+       7                         9
+          1   5   1   1   0   7
+
+     YOUR MOVE? 2
+
+          1   0   0   0   0   4
+       7                         10
+          1   0   2   2   1   0
+
+     AGAIN? 3
+
+          1   0   0   0   0   4
+       7                         10
+          1   0   0   3   2   0
+
+     MY MOVE IS 6,1
+          0   1   1   1   1   0
+       8                         10
+          1   0   0   3   2   8
+
+     YOUR MOVE? 5
+
+          0   1   1   1   1   0
+       8                         11
+          1   0   0   3   0   9
+
+     AGAIN? 4
+
+          0   1   1   1   1   0
+       8                         12
+          1   0   0   0   1   10
+
+     MY MOVE IS 5
+          0   0   1   1   1   0
+      10                         12
+          0   0   0   0   1  10  
+
+     YOUR MOVE? 6
+
+          1   0   2   2   2   1
+      11                         15
+          1   0   0   0   1   0
+
+     MY MOVE IS 6,4
+          0   1   0   2   2   1
+      14                         15
+          0   0   0   0   1   0
+
+     YOUR MOVE? 5
+
+          0   1   0   2   2   0
+      14                         17
+          0   0   0   0   0   0
 
 
+     GAME OVER
+      YOU WIN BY 3 POINTS
+
+
+
+          3   3   3   3   3   3
+       0                         0
+          3   3   3   3   3   3
+
+     YOUR MOVE?
+
+     BREAK IN 110
+     
 
