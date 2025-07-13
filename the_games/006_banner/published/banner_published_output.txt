@@ -1,0 +1,32 @@
+CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY
+
+HORIZONTAL? 3
+VERTICAL? 5
+CENTERED? N
+CHARACTER (TYPE 'ALL' IF YOU WANT CHARACTER BEING PRINTER? ALL
+STATEMENT? CREATIVE
+SET PAGE?
+
+
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+     CCCCC                            CCCCC          
+     CCCCC                            CCCCC
+     CCCCC                            CCCCC
+CCCCC                                      CCCCC
+CCCCC                                      CCCCC
+CCCCC                                      CCCCC
+CCCCC                                      
+CCCCC                                      
+CCCCC                                      
+CCCCC                                      CCCCC
+CCCCC                                      CCCCC
+CCCCC                                      CCCCC
+     CCCCC                            CCCCC          
+     CCCCC                            CCCCC
+     CCCCC                            CCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
+  
