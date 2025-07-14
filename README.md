@@ -33,30 +33,13 @@ for this project.
 
 <game_tite>_published_introduction.txt = game introduction and instructions as published including typos.
 
-<game_title>_published.bas = game code entered as published including typos and code errors.
+<game_title>_published_program.bas = game code entered as published including typos and code errors.
 
 <game_title>_published_output.txt = game sample output as published including typos.
 
-<game_title>_introduction.txt = spell and grammar checked corrected introduction and instructions.
-
 <game_title>_debugged.bas = debugged game coded.
 
+###_abcd.bas = game number as listed in order from publication "_" four character of program name .bas, for DOS.
 
-    g = game
-        Other character codes:
-            i = description and instructions from publication
-            o = sample program output from publication
-            s = sample program output from screen capture (if possible)
-        
-    ### = game number as listed in order from publication
-        (table of contents reference will be created)
-
-    a = original type from publication with possible errors or incompatible
-        code with MS-DOS 6.22 QBASIC
-        Other character codes:
-            d = debugging file
-            f = final working code in MS-DOS 6.22 QBASIC
-
-        
     .bas = BASIC program language file
 

@@ -8,25 +8,205 @@ STATEMENT? CREATIVE
 SET PAGE?
 
 
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-     CCCCC                            CCCCC          
-     CCCCC                            CCCCC
-     CCCCC                            CCCCC
-CCCCC                                      CCCCC
-CCCCC                                      CCCCC
-CCCCC                                      CCCCC
-CCCCC                                      
-CCCCC                                      
-CCCCC                                      
-CCCCC                                      CCCCC
-CCCCC                                      CCCCC
-CCCCC                                      CCCCC
-     CCCCC                            CCCCC          
-     CCCCC                            CCCCC
-     CCCCC                            CCCCC
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-          CCCCCCCCCCCCCCCCCCCCCCCCCCCC
-  
+
+
+
+
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+
+
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+                              VVVVV
+                              VVVVV
+                              VVVVV
+                                   VVVVV
+                                   VVVVV
+                                   VVVVV
+                                        VVVVV
+                                        VVVVV
+                                        VVVVV
+                                   VVVVV
+                                   VVVVV
+                                   VVVVV
+                              VVVVV
+                              VVVVV
+                              VVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+IIIII                                   IIIII
+
+
+
+
+
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+IIIII
+
+
+
+
+
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          AAAAA          AAAAA
+          AAAAA          AAAAA
+          AAAAA          AAAAA
+     AAAAA               AAAAA
+     AAAAA               AAAAA
+     AAAAA               AAAAA
+AAAAA                    AAAAA
+AAAAA                    AAAAA
+AAAAA                    AAAAA
+     AAAAA               AAAAA                              
+     AAAAA               AAAAA                              
+     AAAAA               AAAAA                              
+          AAAAA          AAAAA                              
+          AAAAA          AAAAA                              
+          AAAAA          AAAAA                              
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE                                   EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEE               EEEEE               EEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+
+
+
+     RRRRRRRRRRRRRRR                    RRRRR
+     RRRRRRRRRRRRRRR                    RRRRR      
+     RRRRRRRRRRRRRRR                    RRRRR
+RRRRR               RRRRR          RRRRR
+RRRRR               RRRRR          RRRRR
+RRRRR               RRRRR          RRRRR
+RRRRR               RRRRR     RRRRR
+RRRRR               RRRRR     RRRRR
+RRRRR               RRRRR     RRRRR
+RRRRR               RRRRRRRRRR
+RRRRR               RRRRRRRRRR
+RRRRR               RRRRRRRRRR
+RRRRR               RRRRR
+RRRRR               RRRRR
+RRRRR               RRRRR
+RRRRR               RRRRR
+RRRRR               RRRRR
+RRRRR               RRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
+
+
+          CCCCC               CCCCC
+          CCCCC               CCCCC
+          CCCCC               CCCCC         
+     CCCCC                         CCCCC
+     CCCCC                         CCCCC
+     CCCCC                         CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+CCCCC                                   CCCCC
+     CCCCC                         CCCCC
+     CCCCC                         CCCCC
+     CCCCC                         CCCCC
+          CCCCCCCCCCCCCCCCCCCCCCCCC 
+          CCCCCCCCCCCCCCCCCCCCCCCCC 
+          CCCCCCCCCCCCCCCCCCCCCCCCC                     
