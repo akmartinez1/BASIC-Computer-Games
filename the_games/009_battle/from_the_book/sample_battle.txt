@@ -1,0 +1,126 @@
+          6|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          5|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          4|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          3|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          2|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          1|-----|-----|-----|-----|-----|-----|
+           |     |     |     |     |     |     |
+           |     |     |     |     |     |     |
+          0|-----|-----|-----|-----|-----|-----|
+           0     1     2     3     4     5     6
+
+
+                  BATTLE
+CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY
+
+THE FOLLOWING CODE OF THE BAD GUYS' FLEET DISPOSITION 
+HAS BEEN CAPTURED BUT NOT DECODED:
+
+ 0  0  0  2  2  6
+ 0  4  4  4  6  0
+ 5  0  0  6  0  0
+ 5  0  6  0  0  3
+ 5  1  0  0  0  3
+ 5  0  1  0  0  3
+
+DE-CODE IT AND USE IT IF YOU CAN 
+BUT KEEP THE DECODING METHOD A SECRET.
+
+START GAME 
+? 1,1
+A DIRECT HIT ON SHIP NUMBER  6
+TRY AGAIN
+? 4,1
+A DIRECT HIT ON SHIP NUMBER  3
+TRY AGAIN.
+? 5,1
+A DIRECT HIT ON SHIP NUMBER  3
+TRY AGAIN.
+? 6,1
+A DIRECT HIT ON SHIP NUMBER  3
+AND YOU SUNK IT.  HURRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD BUYS HAVE LOST
+ 0 DESTROYER(S),    1 CRUISER(S), AND   0 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS 0
+? 2,1
+SPLASH!  TRY AGAIN.
+? 1,2
+A DIRECT HIT ON SHIP NUMBER  2
+TRY AGAIN.
+? 1,3
+A DIRECT HIT ON SHIP NUMBER  2
+AND YOU SUNK IT.  HURRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD GUYS HAVE LOST
+ 1 DESTROYER(S),    1 CRUISER(S), AND   0 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS .166667
+? 3,7
+INVALID INPUT.  TRY AGAIN.
+? 3,6
+A DIRECT HIT ON SHIP NUMBER  5
+TRY AGAIN.
+? 4,6
+A DIRECT HIT ON SHIP NUMBER  5
+TRY AGAIN.
+? 5,6
+A DIRECT HIT ON SHIP NUMBER  5
+TRY AGAIN.
+? 6,4
+A DIRECT HIT ON SHIP NUMBER  1
+TRY AGAIN.
+? 6,6
+A DIRECT HIT ON SHIP NUMBER  5
+AND YOU SUNK IT.  HURRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD GUYS HAVE LOST
+ 1 DESTROYER(S),    1 CRUISER(S), AND   1 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS .0909091
+? 3,4
+SPLASH!  TRY AGAIN.
+? 2,2
+A DIRECT HIT ON SHIP NUMBER  6
+TRY AGAIN.
+? 3,3
+A DIRECT HIT ON SH IP NUMBER  6
+TRY AGAIN.
+? 4,4
+A DIRECT HIT ON SHIP NUMBER 6
+AND YOU SUNK IT.  HORRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD GUYS HAVE LOST
+ 1 DESTROYER(S),    1 CRUISER(S), AND   2 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS .142857
+? 6,4
+YOU ALREADY PUT A HOLE IN SHIP NUMBER 1 AT THAT POINT.
+SPLASH!  TRY AGAIN.
+? 5,5
+A DIRECT HIT ON SHIP NUMBER  1
+AND YOU SUNK IT.  HURRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD GUYS HAVE LOST
+  2 DESTROYER(S),   1 CRUISER(S), AND   2 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS .2
+? 2,3
+A DIRECT HIT ON SHIP NUMBER  4
+TRY AGAIN.
+? 2,4
+A DIRECT HIT ON SHIP NUMBER  4
+TRY AGAIN.
+? 2,5
+A DIRECT HIT ON SHIP NUMBER  4
+AND YOU SUNK IT.  HURRAH FOR THE GOOD GUYS.
+SO FAR, THE BAD GUYS HAVE LOST
+ 2 DESTROYER(S),    2 CRUISER(S), AND   2 AIRCRAFT CARRIER(S).
+YOUR CURRENT SPLASH/HIT RATIO IS .166667
+
+YOU HAVE TOTALLY WIPED OUT THE BAD GUYS' FLEET
+WITH A FINAL SPLASH/HIT RATIO OF .166667
+
+****************************
+
